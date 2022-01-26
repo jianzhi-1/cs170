@@ -25,3 +25,15 @@ UC Berkeley Spring 2022, taught by Prof Prasad Raghavendra
   - temp
   - temp
 
+### Implementation
+Rip, why the coding in CS170 is in Python 😔
+
+```python3
+import random
+rc = random.choice
+rs = random.shuffle
+
+def f(a, b):
+  return random.randint(a, b) # returns integer from [a, b] (inclusive)
+```
+
