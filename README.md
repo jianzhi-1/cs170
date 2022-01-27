@@ -28,21 +28,29 @@ UC Berkeley Spring 2022, taught by Prof Prasad Raghavendra
 
 ### Fourier Transform
 
-#### Discrete Fourier Transform (≈ Evaluation)
+##### Discrete Fourier Transform (≈ Evaluation)
 Input: *(a<sub>0</sub>, ..., a<sub>n-1</sub>)* which defines a polynomial *A(z) = Σa<sub>i</sub>z^<sup>n</sup>*
 Output: Evaluates *A* at the *n*th roots of infinity (i.e. *A(1), A(-1), A(i), A(-i), ...*)
 
-#### Inverse Fourier Transform (≈ Interpolation)
+##### Inverse Fourier Transform (≈ Interpolation)
 Input: *(A(1), A(-1), A(i), A(-i), ...)* (i.e. the evaluations of *A* at *n*th roots of unity)
 Output: *(a<sub>0</sub>, ..., a<sub>n-1</sub>)* (i.e. the coefficients of the polynomial)
 
-#### Fast Fourier Transform (FFT) Algorithm
+##### Fast Fourier Transform (FFT) Algorithm
 Key ideas:
 - Divide and Conquer, split problem of degree *n* polynomial into two sub-problems of degree *n/2* polynomials
 - *A(z) = E(z<sup>2</sup>) + z O(z<sup>2</sup>)*, where *E* and *O* are polynomials of degree *n/2*
 - Evaluating *A* at *n*th roots of unity, suffices to evaluate *E* and *O* at *n/2*th roots of unity
+- More efficient that naive algorithm, because it avoids unnecessary computation of terms shared by *E* and *O*
 
 Runtime complexity: *O(n log n)* where *n* is the degree of the polynomial
+
+##### Inverse Fourier Transform
+- *a<sub>l</sub> = (1/n<sup>1/2</sup>) ΣA(ω<sup>j</sup>) ω<sup>-lj</sup>*
+- Replacing *ω* in FFT with *1/ω*
+
+##### Applications
+- Convolution of polynomials (just set number of points to *2<sup>k</sup> > n*
 
 ### Graphs
 
