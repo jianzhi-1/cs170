@@ -3,7 +3,7 @@
 UC Berkeley Spring 2022, taught by Prof Prasad Raghavendra
 
 - [x] Week 0: Asymptotic Analysis (lec1); Divide and Conquer (lec2)
-- [ ] Week 1: Master's Theorem (lec3); Fourier Transform (lec4)
+- [x] Week 1: Master's Theorem (lec3); Fourier Transform (lec4)
 - [ ] Week 2:
 - [ ] Week 3:
 - [ ] Week 4:
