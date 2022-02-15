@@ -81,6 +81,7 @@ def f(a, b):
 ### Exam Area
 
 #### Midterm 1 Prep 😤
+- [x] 19 Spring
 - [ ] YY Spring/Fall
 
 #### Midterm 2 Prep 😤
