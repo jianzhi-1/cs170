@@ -85,7 +85,7 @@ def f(a, b):
 - [ ] 21 Spring
 - [ ] 20 Fall
 - [ ] 20 Spring
-- [ ] 19 Fall
+- [x] 19 Fall
 - [x] 19 Spring
 
 #### Midterm 2 Prep 😤
