@@ -1,13 +1,14 @@
 # CS 170
 ### Efficient Algorithms and Intractable Problems
-UC Berkeley Spring 2022, taught by Prof Prasad Raghavendra
+UC Berkeley Spring 2022, taught by Prof Prasad Raghavendra and Prof John Wright
 
-- [x] Week 0: Asymptotic Analysis (lec1); Divide and Conquer (lec2)
-- [x] Week 1: Master's Theorem (lec3); Fourier Transform (lec4)
-- [ ] Week 2:
-- [ ] Week 3:
-- [ ] Week 4:
-- [ ] Week 5:
+- [x] Week 1: Asymptotic Analysis (lec1); Divide and Conquer (lec2)
+- [x] Week 2: Master's Theorem (lec3); Fourier Transform (lec4)
+- [x] Week 3: Graphs (lec5); DFS and variants (lec6)
+- [x] Week 4: Paths and Dijkstra (lec7); Greedy (lec8)
+- [x] Week 5: Minimum spanning tree (lec9); UFDS (lec10)
+- [ ] Week 6: 
+- [ ] Week 7:
 
 ### Asymptotic Analysis
 - Let *f, g: ℤ<sup>+</sup> → ℝ<sup>+</sup>*. Say *f = O(g)* if there is a constant *c > 0* s.t. *f(n) ≤ c·g(n)*.
@@ -81,10 +82,11 @@ def f(a, b):
 ### Exam Area
 
 #### Midterm 1 Prep 😤
+See my [Midterm 1 Sheet](https://github.com/jianzhi-1/cs61a/blob/main/MidTerm1Sheet.pdf)
 - [ ] 21 Fall
 - [ ] 21 Spring
 - [ ] 20 Fall
-- [ ] 20 Spring
+- [x] 20 Spring
 - [x] 19 Fall
 - [x] 19 Spring
 
