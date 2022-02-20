@@ -85,7 +85,7 @@ def f(a, b):
 See my [Midterm 1 Sheet](https://github.com/jianzhi-1/cs61a/blob/main/MidTerm1Sheet.pdf)
 - [ ] 21 Fall
 - [ ] 21 Spring
-- [ ] 20 Fall
+- [x] 20 Fall
 - [x] 20 Spring
 - [x] 19 Fall
 - [x] 19 Spring
