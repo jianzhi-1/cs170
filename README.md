@@ -82,9 +82,7 @@ def f(a, b):
 ### Exam Area
 
 #### Midterm 1 Prep 😤
-See my [Midterm 1 Sheet](https://github.com/jianzhi-1/cs61a/blob/main/MidTerm1Sheet.pdf)
-- [ ] 21 Fall
-- [ ] 21 Spring
+See my [Midterm 1 Sheet](https://github.com/jianzhi-1/cs170/blob/main/CS170_Midterm1Sheet.pdf)
 - [x] 20 Fall
 - [x] 20 Spring
 - [x] 19 Fall
