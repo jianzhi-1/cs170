@@ -7,8 +7,16 @@ UC Berkeley Spring 2022, taught by Prof Prasad Raghavendra and Prof John Wright
 - [x] Week 3: Graphs (lec5); DFS and variants (lec6)
 - [x] Week 4: Paths and Dijkstra (lec7); Greedy (lec8)
 - [x] Week 5: Minimum spanning tree (lec9); UFDS (lec10)
-- [ ] Week 6: 
+- [x] Week 6: Greedy II (lec11); Dynamic Programming (lec12)
 - [ ] Week 7:
+- [ ] Week 8:
+- [ ] Week 9:
+- [ ] Week 10:
+- [ ] Week 11:
+- [ ] Week 12:
+- [ ] Week 13:
+- [ ] Week 14:
+- [ ] Week 15:
 
 ### Asymptotic Analysis
 - Let *f, g: ℤ<sup>+</sup> → ℝ<sup>+</sup>*. Say *f = O(g)* if there is a constant *c > 0* s.t. *f(n) ≤ c·g(n)*.
@@ -57,11 +65,14 @@ Runtime complexity: *O(n log n)* where *n* is the degree of the polynomial
 
 ### Dynamic Programming
 
-### Linear Programming
-
 ### Network Flow
-
-### Duality
+##### s-t Max Flow
+- Ford Fulkerson *O((|V| + |E|)f<sup>**</sup>* where *f<sup>\*</sup>* is the maximum flow.
+  - Might not terminate for **irrational** capacities.
+- Edmond-Karp *O(|E|<sup>2</sup>|V|)*
+- Dinic's Algorithm *O(|V|<sup>2</sup>|E|)*
+- Lemma 1: Any *s-t* flow decomposes into at most *m* cycles and *s-t* paths
+- Lemma 2: Suppose *f* is a flow in *G* and it is not a max flow. Then *f<sup>\*</sup> - f* is a feasible flow in *G<sub>f</sub>*
 
 ### Matching
 
