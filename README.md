@@ -8,10 +8,10 @@ UC Berkeley Spring 2022, taught by Prof Prasad Raghavendra and Prof John Wright
 - [x] Week 4: Paths and Dijkstra (lec7); Greedy (lec8)
 - [x] Week 5: Minimum spanning tree (lec9); UFDS (lec10)
 - [x] Week 6: Greedy II (lec11); Dynamic Programming (lec12)
-- [ ] Week 7:
-- [ ] Week 8:
-- [ ] Week 9:
-- [ ] Week 10:
+- [x] Week 7:
+- [x] Week 8:
+- [x] Week 9:
+- [x] Week 10: 🍃 Spring Break 🍃
 - [ ] Week 11:
 - [ ] Week 12:
 - [ ] Week 13:
@@ -100,7 +100,8 @@ See my [Midterm 1 Sheet](https://github.com/jianzhi-1/cs170/blob/main/CS170_Midt
 - [x] 19 Spring
 
 #### Midterm 2 Prep 😤
-- [ ] YY Spring/Fall
+See my [Midterm 2 Sheet](https://github.com/jianzhi-1/cs170/blob/main/CS170_Midterm1Sheet.pdf)
+- [x] 19 Spring
 
 #### Final Exam Prep 😤
 - [ ] YY Spring/Fall
