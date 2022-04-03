@@ -6,11 +6,11 @@ UC Berkeley Spring 2022, taught by Prof Prasad Raghavendra and Prof John Wright
 - [x] Week 2: Master's Theorem (lec3); Fourier Transform (lec4)
 - [x] Week 3: Graphs (lec5); DFS and variants (lec6)
 - [x] Week 4: Paths and Dijkstra (lec7); Greedy (lec8)
-- [x] Week 5: Minimum spanning tree (lec9); UFDS (lec10)
-- [x] Week 6: Greedy II (lec11); Dynamic Programming (lec12)
-- [x] Week 7:
-- [x] Week 8:
-- [x] Week 9:
+- [x] Week 5: Minimum Spanning Tree (lec9); UFDS (lec10)
+- [x] Week 6: Minimum Set Cover (lec11); Dynamic Programming (lec12)
+- [x] Week 7: All Pairs Shortest Path (lec13); Applications of Dynamic Programming (lec14)
+- [x] Week 8: Linear Programming (lec15); Max Flow, Bipartite Matching (lec16)
+- [x] Week 9: Duality Theorems, Zero Sum Games (lec17); Multiplicative Weights Update (lec18)
 - [x] Week 10: 🍃 Spring Break 🍃
 - [x] Week 11: Reduction (lec19); P and NP, NP Completeness (lec20)
 - [ ] Week 12:
