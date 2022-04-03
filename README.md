@@ -12,7 +12,7 @@ UC Berkeley Spring 2022, taught by Prof Prasad Raghavendra and Prof John Wright
 - [x] Week 8:
 - [x] Week 9:
 - [x] Week 10: 🍃 Spring Break 🍃
-- [ ] Week 11:
+- [x] Week 11: Reduction (lec19); P and NP, NP Completeness (lec20)
 - [ ] Week 12:
 - [ ] Week 13:
 - [ ] Week 14:
@@ -101,6 +101,7 @@ See my [Midterm 1 Sheet](https://github.com/jianzhi-1/cs170/blob/main/CS170_Midt
 
 #### Midterm 2 Prep 😤
 See my [Midterm 2 Sheet](https://github.com/jianzhi-1/cs170/blob/main/CS170_Midterm1Sheet.pdf)
+- [x] 19 Fall
 - [x] 19 Spring
 
 #### Final Exam Prep 😤
