@@ -100,7 +100,7 @@ See my [Midterm 1 Sheet](https://github.com/jianzhi-1/cs170/blob/main/CS170_Midt
 - [x] 19 Spring
 
 #### Midterm 2 Prep 😤
-See my [Midterm 2 Sheet](https://github.com/jianzhi-1/cs170/blob/main/CS170_Midterm1Sheet.pdf)
+See my [Midterm 2 Sheet](https://github.com/jianzhi-1/cs170/blob/main/CS170Midterm2Sheet.pdf)
 - [x] 19 Fall
 - [x] 19 Spring
 
