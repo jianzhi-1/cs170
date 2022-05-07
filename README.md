@@ -16,7 +16,7 @@ UC Berkeley Spring 2022, taught by Prof Prasad Raghavendra and Prof John Wright
 - [x] Week 12: Midterm 2; 
 - [x] Week 13: ; Streaming
 - [x] Week 14: Sketching
-- [x] Week 15: Randomized Algorithms; Quantum Algorithms
+- [x] Week 15: Primality Testing; Quantum Algorithms
 
 ### Asymptotic Analysis
 - Let *f, g: ℤ<sup>+</sup> → ℝ<sup>+</sup>*. Say *f = O(g)* if there is a constant *c > 0* s.t. *f(n) ≤ c·g(n)*.
