@@ -13,10 +13,10 @@ UC Berkeley Spring 2022, taught by Prof Prasad Raghavendra and Prof John Wright
 - [x] Week 9: Duality Theorems, Zero Sum Games (lec17); Multiplicative Weights Update (lec18)
 - [x] Week 10: 🍃 Spring Break 🍃
 - [x] Week 11: Reduction (lec19); P and NP, NP Completeness (lec20)
-- [ ] Week 12:
-- [ ] Week 13:
-- [ ] Week 14:
-- [ ] Week 15:
+- [x] Week 12: Midterm 2; 
+- [x] Week 13: ; Streaming
+- [x] Week 14: Sketching
+- [x] Week 15: Randomized Algorithms; Quantum Algorithms
 
 ### Asymptotic Analysis
 - Let *f, g: ℤ<sup>+</sup> → ℝ<sup>+</sup>*. Say *f = O(g)* if there is a constant *c > 0* s.t. *f(n) ≤ c·g(n)*.
